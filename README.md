@@ -1,63 +1,73 @@
-This project contain the dummy data to analyse the call center performance. This data contains the one month data of 8 employees in the call center.
+Project Overview
 
-Chart 1 (line chart)
+This project uses a dummy dataset to analyse call center performance for one month covering 8 employees.
+The dashboard helps managers understand efficiency, service quality and customer experience.
 
-Objectives:
- 
-  To analyse the average handling time of agents per day.
-
-Insights:
-
-  Averate handling time fluctuates across different days, suggesting inconsistent call complexity or uneven workload distribution.
-
-Action:
-
-  Analyse high handle time days and allocate additional agents or provide call handling guidelines for the agents to manage complex 
-  calls which increase the resolve call rate. 
-
-Chart 2 (pie chart)
-
-Objectives:
-
-  To analyse the call status of answered, resolved and missed calls.
-
-Insights:
-  Resolved and answered calls form the largest and equal propotion, indicating the most customers issues are successfully handled and most calls are answered. 
-  However the proportion of missed calls is still high, showing room for improvement in call handling capacity.
-
-Action:
-  Increasing in missed calls shows there is availabiliy of extra agents to handle the call service.
-
-Chart 3 (Bar chart)
-
-Objectives: 
-
-To analyse the average handling time of each agents.
-
-Insights:
-
-Some employees handle the call for long time and others call handl time is low. This showe difference in call efficiency of agents.
-
-Action:
-
-The agents with low handling time need training and standardized call scripts can also help to improve efficiency.
-
-Chart 4 (column chart)
+Chart 1: Line Chart – Average Handle Time per Day
 
 Objective:
 
-To analyse the customer satisfaction.
+To analyse the average handling time of agents per day.
 
-Insights:
+Insight:
 
-The customer satisfaction score is vary across among agents, eventhough the some agent's
-handling time is high their satisfaction score by customers are low.
+Average handle time fluctuates across different days, indicating inconsistent call complexity and uneven workload distribution.
 
 Action:
 
-Identify best performing agents and use their interaction approach as a benchmark for coaching other team members.
+Analyse high handle-time days and allocate additional agents or provide call-handling guidelines to manage complex calls and improve the resolved call rate.
 
-Visualization 5 (slicer)
+Chart 2: Pie Chart – Call Status
 
-The agents name in the slicer help the managers to analyse all the agents performance individually among various charts. 
+Objective:
+
+To analyse answered, resolved and missed calls.
+
+Insight:
+
+Answered and resolved calls form the largest and almost equal proportion, showing most customer issues are successfully handled.
+However, the missed calls portion is still significant, indicating capacity gaps.
+
+Action:
+
+Increase agent availability during peak hours to reduce missed calls and improve customer reach.
+
+Chart 3: Bar Chart – Average Handle Time by Agent
+
+Objective:
+
+To analyse the average handling time of each agent.
+
+Insight:
+
+Some agents take longer while others handle calls faster, showing differences in efficiency and experience.
+
+Action:
+
+Provide training and standardized call scripts to slower agents and use top performers as mentors.
+
+Chart 4: Column Chart – Customer Satisfaction
+
+Objective:
+
+To analyse customer satisfaction scores.
+
+Insight:
+
+Customer satisfaction varies among agents.
+Even some agents with high handle time have low satisfaction, showing that speed alone does not guarantee quality.
+
+Action:
+
+Identify best-performing agents and use their interaction style as a benchmark for coaching others.
+
+Visualization 5: Slicer – Agent Name
+
+Objective:
+
+To enable managers to analyse individual agent performance across all charts.
+
+Insight & Action:
+
+Managers can quickly filter by agent to monitor performance, identify issues, and take targeted improvement actions.
 
